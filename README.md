@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is İsmail
 #### I am a 4th year industrial engineering student.
-![I am a 4th year industrial engineering student.](#)
+
 
 I am currently developing myself to be a front end developer.
 
