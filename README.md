@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is İsmail
 #### I am a 4th year industrial engineering student.
-![I am a 4th year industrial engineering student.](https://www.metalocus.es/sites/default/files/styles/mopis_news_carousel_item_desktop/public/metalocus_blade_runner_2049_08.jpg?itok=EPHZCAwB)
+![I am a 4th year industrial engineering student.](#)
 
 I am currently developing myself to be a front end developer.
 
