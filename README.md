@@ -4,7 +4,7 @@
 
 I am currently developing myself to be a front end developer.
 
-Skills: HTML / CSS / JS / PYTHON /
+Skills: ***HTML / CSS / JS / PYTHON /***
 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Web projects 
