@@ -8,10 +8,9 @@ Skills: HTML / CSS / JS / PYTHON /
 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Web projects 
-- 📫 How to reach me: . 
+- 📫 How to reach me: [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='30'>](https://github.com/ismailboyaci)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/ismailboyaci/)  [<img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png' alt='hackerrank' height='30'>](https://www.hackerrank.com/ismailboyaci?hr_r=1)  
 
-
-[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/ismailboyaci)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ismailboyaci/)  [<img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png' alt='hackerrank' height='45'>](https://www.hackerrank.com/ismailboyaci?hr_r=1)  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ismailboyaci)](https://github.com/ryo-ma/github-profile-trophy)
 
