@@ -1,21 +1,80 @@
-<h1 align="center">Hi 👋, I'm ISMAIL</h1>
-<h3 align="center">A Junior frontend developer & Reactjs developer from Turkey</h3>
+<h1 align="left">Hello, I'm İsmail</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailboyaci&label=Profile%20views&color=0e75b6&style=flat" alt="ismailboyaci" /> </p>
+###
 
-- 🌱 I’m currently learning **Reactjs, Redux, Typescript**
-
-- 📫 How to reach me **ism.byc@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismailboyaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailboyaci" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ismailboyaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ismailboyaci" height="30" width="40" /></a>
+<p align="left">I have been passionately working as a front-end developer for about a year now! I structure my work using Angular 14, contributing to projects that revolve around developing educational solutions for 
+<a href="https://www.sebit.com.tr/">SEBIT Education and Information Technologies Inc.</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailboyaci&show_icons=true&locale=en&layout=compact" alt="ismailboyaci" /></p>
+<h3 align="left">A Little About Me</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailboyaci&show_icons=true&locale=en" alt="ismailboyaci" /></p>
+###
+
+<p align="left">💼 Current Job: I am currently working as a front-end developer at SEBIT Education and Information Technologies Inc.<br>🚀 Technology: I am deeply invested in utilizing Angular 14 to build modern and efficient web applications.<br>📚 Continuous Learning: In my spare time, I am actively exploring other popular JavaScript frameworks like React and Next.js to enhance my skills.</p>
+
+###
+
+<h3 align="left">What I Do?</h3>
+
+###
+
+<p align="left">In the ever-changing world of front-end development, I enjoy taking step-by-step approaches. I focus on creating user-centric, accessible, and high-performing applications. I am always open to trying out new tools and techniques while staying up-to-date with the latest technology and trends.</p>
+
+###
+
+<h3 align="left">Technological Curiosity</h3>
+
+###
+
+<p align="left">🅰️ Angular: Working with Angular 14 excites me, especially with its usage of TypeScript and component-based architecture, making my projects organized and scalable.<br>⚛️ React & Next.js: During my free time, I am curious about learning React and Next.js, building simple projects with them, which provides me with different perspectives and ways of thinking, expanding my skillset.<br>💻 .NET: I'm also keen on exploring the backend side of development, and .NET has caught my attention. I plan to delve into building robust server-side applications using C# and the .NET framework.</p>
+
+###
+
+<h3 align="left">How to Reach Me?</h3>
+
+###
+
+<p align="left">If we share the same tech world or see any potential for collaboration, feel free to contact me at <a href="mailto:ism.byc@hotmail.com" >ism.byc@hotmail.com</a>. Also, don't forget to check out my projects on GitHub, and know that I'm open to any feedback.</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ismailboyaci/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/ismbyc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
